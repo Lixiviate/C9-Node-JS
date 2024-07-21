@@ -18,6 +18,8 @@ This project aims to dynamically create a professional README.md file using Node
 
 ## Example
 
+[Walkthrough Video](https://drive.google.com/file/d/1URJrB5JcSOnJJDmtAQ8lnxj86NEPHnbF/view)
+
 ![Example](./Develop/images/example.png)
 
 ## Source Code
